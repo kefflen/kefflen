@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kefflen
 - 👀 I’m interested in node/typescript
 - 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on node with typescript backend projects
+- 💞️ I’m looking to collaborate on any project that use javascript/typescript
 - 📫 How to reach me ...
 
 <!---
